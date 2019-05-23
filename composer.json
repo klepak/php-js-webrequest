@@ -1,0 +1,16 @@
+{
+    "name": "klepak/php-js-webrequest",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Knut Leborg",
+            "email": "knut@lepa.no"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Klepak\\PhpJsWebRequest\\": "src/"
+        }
+    }
+}
