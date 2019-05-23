@@ -8,7 +8,7 @@ Use headless chrome to get contents of webpage after running javascript. Tested 
 ## Getting started
 
 ```
-composer require
+composer require klepak/php-js-webrequest
 ```
 
 ```
